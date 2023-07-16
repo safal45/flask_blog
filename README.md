@@ -1,1 +1,5 @@
-# flask_blog
+<<<<<<< HEAD
+Your local changes
+=======
+Remote changes
+>>>>>>> origin/main
